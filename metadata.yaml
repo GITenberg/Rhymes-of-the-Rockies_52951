@@ -1,0 +1,23 @@
+_repo: Rhymes-of-the-Rockies_52951
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whilt, James W.
+    alias: Whilt, Jim
+    gutenberg_agent_id: '47131'
+    url: http://www.gutenberg.org/2009/agents/47131
+description: ''
+gutenberg_issued: '2016-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Rhymes of the Rockies
+url: http://www.gutenberg.org/ebooks/52951
